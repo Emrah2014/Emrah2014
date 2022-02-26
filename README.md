@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading books, learning software
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me emrah.yaltirik27@gmail.com
 
 <!---
 Emrah2014/Emrah2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
